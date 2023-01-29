@@ -1,7 +1,10 @@
 - 👋 Hi, I’m @FeiLiuEM
-- 👀 I’m interested in python and AI.
+- 👀 I’m interested in AI guided drug discovery.
 - 🌱 I’m currently learning CLIP.
-- 📫 FeiLiuEM@outlook.com
+- 📫 FeiLiuEM@outlook.com.
+- Ph.D of Emergency Medicine.
+- Graduate from Xuzhou Medical University and Zhejiang University.
+- Now work in Nanjing Drum Tower hospital.
 
 <!---
 FeiLiuEM/FeiLiuEM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
