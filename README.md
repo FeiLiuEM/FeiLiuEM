@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FeiLiuEM
 - Ph.D of Clinical Medicine.
 - Graduate from Xuzhou Medical University and Zhejiang University.
-- 🌱 I’m currently an emergency department physician. Now work in Nanjing Drum Tower hospital.
+- 🌱 I’m currently a physician.
 - 📫 FeiLiuEM@outlook.com.
 
 
